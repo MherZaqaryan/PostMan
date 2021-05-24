@@ -1,0 +1,1 @@
+<div align="center"><h1>PostMan Minecraft Server Plugin</h1><longdesc>What is PostMan ?, PostMan is a minecraft server plugin which allow players to authenticate their email addresses, and allowing server admins to notify players about new updates with email.</longdesc></div>
