@@ -1,0 +1,25 @@
+main: me.MrIronMan.postman.PostMan
+name: PostMan
+version: ${project.version}
+author: MrIronMan
+api-version: "1.13"
+description: PostMan plugin by MrIronMan (Mher Zaqaryan)
+load: STARTUP
+
+permissions:
+  PostMan.SetEmail:
+    description: Allow player to set his email.
+  PostMan.Verify:
+    description: Allow player to verify his email adress.
+  PostMan.Help:
+    description: Allow player to see all list of commands.
+  PostMan.Control:
+    description: Allow player to use control panel.
+  PostMan.Compose:
+    description: Allow player to create compose.
+  PostMan.Unregister:
+    description: Allow player to unregister another player
+  PostMan.SetSubject:
+    description: Allow player to change specified file subject.
+  PostMan.Notifications:
+    description: Allow player to see plugin update notification.
